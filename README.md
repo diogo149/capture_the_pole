@@ -4,17 +4,17 @@ capture_the_pole
 Multiplayer Capture the Flag Game
 
 Game made for the RPI Game Jam on April 7th & 8th, 2013.
-    First Place, Most Overall Votes
-    Third Place, Overall
-    Third Place, Best Fit for Theme
-    Third Place, Player Satisfaction
+>>> First Place, Most Overall Votes
+>>> Third Place, Overall
+>>> Third Place, Best Fit for Theme
+>>> Third Place, Player Satisfaction
 
 An online multiplayer trap-based capture the flag game.
 
 By:
-    Amanda Knight
-    Diogo Moitinho de Almeida
-    Michael Watterson
+>>> Amanda Knight
+>>> Diogo Moitinho de Almeida
+>>> Michael Watterson
 
 Instructions:
     1. Install meteor.js
