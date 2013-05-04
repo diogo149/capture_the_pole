@@ -22,6 +22,9 @@ to do:
   -put new images for glow
   -increase season time
   -change who traps damage
+  -automate image generation somehow (using objects, and maybe a class)
+  -implement proper login
+  -redo window onload to only have the necessary canvas stuff (i.e. move the image loading)
 */
 
 var SETTINGS = {}
